@@ -1,11 +1,17 @@
-# This is a large heading
+# Scott Willis
 
-## This is a smaller heading
+### Geography
+
+I live in Paris. 
+
+### Reading
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
 Turns them to shapes and gives to airy nothing,
 A local *habitation* and a **name**.
+
+### Examples
 
 - This is
 - an unordered
@@ -23,8 +29,8 @@ a block
 of code
 ```
 
+### Contact
+
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-nano README.md
