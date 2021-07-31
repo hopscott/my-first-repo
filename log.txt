@@ -1,0 +1,17 @@
+commit d4c41ad7712aed8aec62a8444447a8c5381ffb55
+Author: hopscott <scott.willis2706@gmail.com>
+Date:   Fri Jul 30 17:20:47 2021 +0200
+
+    added gitignore
+
+commit 40aa28d35e625f21ecc8e806759fef8d225733fe
+Author: hopscott <scott.willis2706@gmail.com>
+Date:   Fri Jul 30 16:55:19 2021 +0200
+
+    added two files
+
+commit 292063978f54194a89be3cb59c519a210de862aa
+Author: hopscott <scott.willis2706@gmail.com>
+Date:   Fri Jul 30 16:49:36 2021 +0200
+
+    added readme.txt
